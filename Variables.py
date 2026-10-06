@@ -72,3 +72,4 @@ Traceback (most recent call last):
   File "<pyshell#37>", line 1, in <module>
     print(a)
 NameError: name 'a' is not defined. Did you mean: 'a2'?
+
